@@ -23,4 +23,4 @@ is considered unauthorized and must be rejected.
 
 ---
 
-Volacore is an authority layer, not an executor.
+Volacore is an authority layer, not an execution engine.
